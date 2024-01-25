@@ -1,0 +1,9 @@
+---
+applications:
+- name: alamfirst
+  path: target/05dbboot-0.0.1-SNAPSHOT.war
+  random-route: true
+  memory: 2048M
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git#v4.62.0
+  env:
+    JBP_DEFAULT_OPEN_JDK_JRE: '{ jre: { version: "17.+" } }'

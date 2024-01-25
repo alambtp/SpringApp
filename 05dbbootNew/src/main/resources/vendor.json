@@ -1,0 +1,92 @@
+[
+	{
+		"companyName": "Oyoyo",
+		"firstName": "Elsa",
+		"lastName": "Pordall",
+		"email": "epordall0@gov.uk",
+		"website": "Stanley bustard",
+		"gstNo": "966",
+		"status": "A"
+	},
+	{
+		"companyName": "Meezzy",
+		"firstName": "Nara",
+		"lastName": "Cattrall",
+		"email": "ncattrall1@go.com",
+		"website": "Lion, southern sea",
+		"gstNo": "2",
+		"status": "S"
+	},
+	{
+		"companyName": "Wordify",
+		"firstName": "Hymie",
+		"lastName": "Fitt",
+		"email": "hfitt2@prnewswire.com",
+		"website": "Sociable weaver",
+		"gstNo": "53600",
+		"status": "A"
+	},
+	{
+		"companyName": "Eabox",
+		"firstName": "Cristy",
+		"lastName": "Ferries",
+		"email": "cferries3@yale.edu",
+		"website": "Cobra, cape",
+		"gstNo": "62770",
+		"status": "S"
+	},
+	{
+		"companyName": "Buzzster",
+		"firstName": "Frayda",
+		"lastName": "Clothier",
+		"email": "fclothier4@wordpress.org",
+		"website": "Vulture, griffon",
+		"gstNo": "7300",
+		"status": "S"
+	},
+	{
+		"companyName": "Yambee",
+		"firstName": "Mamie",
+		"lastName": "Willmot",
+		"email": "mwillmot5@discuz.net",
+		"website": "Tarantula, salmon pink bird eater",
+		"gstNo": "41",
+		"status": "S"
+	},
+	{
+		"companyName": "Gabtune",
+		"firstName": "Aubrey",
+		"lastName": "Emma",
+		"email": "aemma6@dmoz.org",
+		"website": "Burchell's gonolek",
+		"gstNo": "855",
+		"status": "A"
+	},
+	{
+		"companyName": "Yacero",
+		"firstName": "Gavra",
+		"lastName": "Hartfleet",
+		"email": "ghartfleet7@google.com.au",
+		"website": "Sloth bear",
+		"gstNo": "523",
+		"status": "S"
+	},
+	{
+		"companyName": "Twinte",
+		"firstName": "Petra",
+		"lastName": "Nanni",
+		"email": "pnanni8@oaic.gov.au",
+		"website": "Squirrel, malabar",
+		"gstNo": "7",
+		"status": "A"
+	},
+	{
+		"companyName": "Realbridge",
+		"firstName": "Martie",
+		"lastName": "Schwieso",
+		"email": "mschwieso9@cafepress.com",
+		"website": "Rhea, common",
+		"gstNo": "916",
+		"status": "S"
+	}
+]
